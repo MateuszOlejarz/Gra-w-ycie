@@ -1,0 +1,18 @@
+C:\Users\Mati\inne\Documents\Visual Studio 2015\Projects\NaZaliczenie\GraWŻycie2\GraWŻycie2\bin\Debug\GraWŻycie2.exe.config
+C:\Users\Mati\inne\Documents\Visual Studio 2015\Projects\NaZaliczenie\GraWŻycie2\GraWŻycie2\bin\Debug\GraWŻycie2.exe
+C:\Users\Mati\inne\Documents\Visual Studio 2015\Projects\NaZaliczenie\GraWŻycie2\GraWŻycie2\bin\Debug\GraWŻycie2.pdb
+C:\Users\Mati\inne\Documents\Visual Studio 2015\Projects\NaZaliczenie\GraWŻycie2\GraWŻycie2\obj\Debug\GraWŻycie2.csprojResolveAssemblyReference.cache
+C:\Users\Mati\inne\Documents\Visual Studio 2015\Projects\NaZaliczenie\GraWŻycie2\GraWŻycie2\obj\Debug\GraWŻycie2.Form1.resources
+C:\Users\Mati\inne\Documents\Visual Studio 2015\Projects\NaZaliczenie\GraWŻycie2\GraWŻycie2\obj\Debug\GraWŻycie2.Properties.Resources.resources
+C:\Users\Mati\inne\Documents\Visual Studio 2015\Projects\NaZaliczenie\GraWŻycie2\GraWŻycie2\obj\Debug\GraWŻycie2.csproj.GenerateResource.Cache
+C:\Users\Mati\inne\Documents\Visual Studio 2015\Projects\NaZaliczenie\GraWŻycie2\GraWŻycie2\obj\Debug\GraWŻycie2.exe
+C:\Users\Mati\inne\Documents\Visual Studio 2015\Projects\NaZaliczenie\GraWŻycie2\GraWŻycie2\obj\Debug\GraWŻycie2.pdb
+C:\Users\Mati\inne\Desktop\naGITa\GraWŻycie2\GraWŻycie2\bin\Debug\GraWŻycie2.exe.config
+C:\Users\Mati\inne\Desktop\naGITa\GraWŻycie2\GraWŻycie2\obj\Debug\GraWŻycie2.pdb
+C:\Users\Mati\inne\Desktop\naGITa\GraWŻycie2\GraWŻycie2\bin\Debug\GraWŻycie2.exe
+C:\Users\Mati\inne\Desktop\naGITa\GraWŻycie2\GraWŻycie2\bin\Debug\GraWŻycie2.pdb
+C:\Users\Mati\inne\Desktop\naGITa\GraWŻycie2\GraWŻycie2\obj\Debug\GraWŻycie2.csprojResolveAssemblyReference.cache
+C:\Users\Mati\inne\Desktop\naGITa\GraWŻycie2\GraWŻycie2\obj\Debug\GraWŻycie2.Form1.resources
+C:\Users\Mati\inne\Desktop\naGITa\GraWŻycie2\GraWŻycie2\obj\Debug\GraWŻycie2.Properties.Resources.resources
+C:\Users\Mati\inne\Desktop\naGITa\GraWŻycie2\GraWŻycie2\obj\Debug\GraWŻycie2.csproj.GenerateResource.Cache
+C:\Users\Mati\inne\Desktop\naGITa\GraWŻycie2\GraWŻycie2\obj\Debug\GraWŻycie2.exe
